@@ -1,0 +1,9 @@
+{
+  "projectId": "7qpuwx",
+  "baseUrl": "http://lojaebac.ebaconline.art.br",
+  "env": {
+    "video": false,
+    "allure": true,
+    "allureResultsPath": "allure-results"
+  }
+}
